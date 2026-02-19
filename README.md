@@ -38,4 +38,4 @@ Esta app está construida con **Kotlin + Jetpack Compose**, asegurando una exper
 
 ## 👥 Equipo de Desarrollo
 - Juan Pepito
-- Ana Pepita
+- Ana Pepita test
